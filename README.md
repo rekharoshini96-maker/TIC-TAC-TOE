@@ -44,3 +44,47 @@ int main()
 
     return 0;
 }
+OUTPUT
+Enter your move: 0
+X| | 
+-+-+-
+ | | 
+-+-+-
+ | | 
+Enter your move: 4
+X| | 
+-+-+-
+ |O| 
+-+-+-
+ | | 
+Enter your move: 1
+X|X| 
+-+-+-
+ |O| 
+-+-+-
+ | | 
+Enter your move: 2
+X|X|O
+-+-+-
+ |O| 
+-+-+-
+ | | 
+Enter your move: 6
+X|X|O
+-+-+-
+ |O| 
+-+-+-
+X| | 
+Enter your move: 7
+X|X|O
+-+-+-
+ |O| 
+-+-+-
+X|O| 
+Enter your move: 3
+X|X|O
+-+-+-
+X|O| 
+-+-+-
+X|O| 
+X wins
